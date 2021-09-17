@@ -1,0 +1,9 @@
+img {
+  width: 300px;
+  height: auto;
+}
+
+.main-image img {
+  width: 500px;
+  height: auto;
+}
